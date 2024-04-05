@@ -16,11 +16,10 @@ Button clicks are also enhanced with an animation effect through the animatePres
 # snapshots:
 
 
-![1](https://github.com/SantraptiNayak/Simon-Game/assets/107788748/d60db381-ae46-400c-9514-3f10cdbbd597)
+![1](https://github.com/SantraptiNayak/Simon-Game/assets/107788748/9a2fc099-7562-4e3b-897d-e67060d18dd5)
 
 
-![2](https://github.com/SantraptiNayak/Simon-Game/assets/107788748/b4fd4e4d-9036-4b21-b1b2-af42533ec302)
+![2](https://github.com/SantraptiNayak/Simon-Game/assets/107788748/4a0962e6-acf5-46e7-ab78-a239d0e20710)
 
 
-![3](https://github.com/SantraptiNayak/Simon-Game/assets/107788748/7f92a3cc-4428-4753-a5d9-bc850d887b8b)
-
+![3](https://github.com/SantraptiNayak/Simon-Game/assets/107788748/613ce18f-e656-47b8-81d5-b1c39e9364bf)
