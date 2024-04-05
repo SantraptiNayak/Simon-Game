@@ -23,3 +23,7 @@ Button clicks are also enhanced with an animation effect through the animatePres
 
 
 ![3](https://github.com/SantraptiNayak/Simon-Game/assets/107788748/613ce18f-e656-47b8-81d5-b1c39e9364bf)
+
+
+#link: https://santraptinayak.github.io/Simon-Game/
+
